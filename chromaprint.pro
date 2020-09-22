@@ -23,7 +23,6 @@ SOURCES += \
 }
 
 SOURCES += \
-        main.cpp \
         src/audio_processor.cpp \
         src/avresample/resample2.c \
         src/chroma.cpp \
